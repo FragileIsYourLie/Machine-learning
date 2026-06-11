@@ -10,7 +10,7 @@
 
 真正地掌握传统机器学习算法
 
-1、熟练使用 numpy,pandas,matplotlib,sklearn 这些库；其中numpy用来处理高精度数据，矩阵运算；pandas用来导入不同数据并转换类型；matplotlib绘图可视化
+1、熟练使用 numpy,pandas,matplotlib,sklearn 这些库；其中numpy用来处理高精度数据，矩阵运算；pandas用来导入不同数据并转换类型；matplotlib绘图可视化，sklearn导入机器学习算法并划分训练测试数据以及计算评估指标。
 
 2、数学公式：西瓜书
 
